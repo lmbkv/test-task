@@ -1,20 +1,20 @@
 [
    {
-      "position":[
+      "coordinates":[
          -123.0838530,
          49.2407157
       ],
       "message":"Ticket 1"
    },
    {
-      "position":[
+      "coordinates":[
          -123.108995,
          49.251335
       ],
       "message":"Ticket 2"
    },
    {
-      "position":[
+      "coordinates":[
          -123.158995,
          49.271335
       ],
