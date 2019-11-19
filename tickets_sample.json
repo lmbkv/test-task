@@ -1,10 +1,5 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-{"type":"Feature","geometry":{"type":"Point","coordinates":[[-123.0838530,49.2407157]]},"properties":{"valuePerSqm":4563,"growth":0.3592}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[[-123.158995,49.271335]]},"properties":{"valuePerSqm":4563,"growth":0.3592}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[[-123.108995,49.251335]]},"properties":{"valuePerSqm":4563,"growth":0.3592}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[[-123.128995,49.261335]]},"properties":{"valuePerSqm":4563,"growth":0.3592}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[[-123.118995,49.259335]]},"properties":{"valuePerSqm":4563,"growth":0.3592}},
-  ]
-}
+[
+        {position: [-123.0838530,49.2407157], message: 'Ticket 1'},
+        {position: [-123.108995,49.251335], message: 'Ticket 2'},
+        {position: [-123.158995,49.271335], message: 'Ticket 3'}
+      ]
