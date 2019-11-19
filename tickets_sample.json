@@ -5,19 +5,5 @@
          49.2407157
       ],
       "message":"Ticket 1"
-   },
-   {
-      "coordinates":[
-         -123.108995,
-         49.251335
-      ],
-      "message":"Ticket 2"
-   },
-   {
-      "coordinates":[
-         -123.158995,
-         49.271335
-      ],
-      "message":"Ticket 3"
    }
 ]
