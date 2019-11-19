@@ -1,5 +1,5 @@
 [
-        {"position": [-123.0838530,49.2407157], "message": 'Ticket 1'},
-        {"position": [-123.108995,49.251335], "message": 'Ticket 2'},
-        {"position": [-123.158995,49.271335], "message": 'Ticket 3'}
+        {"position": [-123.0838530,49.2407157], "message": "Ticket 1"},
+        {"position": [-123.108995,49.251335], "message": "Ticket 2"},
+        {"position": [-123.158995,49.271335], "message": "Ticket 3"}
      ]
